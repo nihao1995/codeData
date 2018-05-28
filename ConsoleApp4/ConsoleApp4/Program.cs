@@ -10,6 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+		string s1 = "zhansan";
         }
     }
 }
