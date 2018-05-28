@@ -15,6 +15,7 @@ namespace ConsoleApp4
 		string s3 = "11";
 		string s4 = "22";
 		string s5 = "33";
+		string s6 = "f3080fd..a782cc3";
         }
     }
 }
