@@ -13,6 +13,7 @@ namespace ConsoleApp4
 		string s1 = "zhansan";
 		string s2 = "lisi";
 		string s3 = "11";
+		string s4 = "22";
         }
     }
 }
