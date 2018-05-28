@@ -14,6 +14,7 @@ namespace ConsoleApp4
 		string s2 = "lisi";
 		string s3 = "11";
 		string s4 = "22";
+		string s5 = "33";
         }
     }
 }
