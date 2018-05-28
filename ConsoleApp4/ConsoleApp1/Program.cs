@@ -17,7 +17,8 @@ namespace ConsoleApp1
             string s1 = "zhangsan";
             string s2 = "dsadasdasdasd ";
             string s3 = "zhangsan";
-            string s4 = "lisi";
+            string d4 = "wannnn"
+	        string s5 = "wangwu";
             
             string s = null;
             Stopwatch sw = new Stopwatch();
